@@ -7,5 +7,6 @@ EWF examples
   * An [Hypermedia API](task_example/hypermedia_cj/readme.md) using Collection JSON based on Mike Amundsen book Building Hypermedia APIs with HTML5 and Node
 * The [YouTypeIt](/YouTypeIt/Readme.md) example from RESTful Web APIs book
 
+Note: Read the Eiffel Web [workbook](/workbook/workbook.md) for documentation.
 
 
